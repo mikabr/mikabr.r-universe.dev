@@ -1,0 +1,46 @@
+[
+    {
+        "package": "metabias",
+        "url": "https://github.com/mathurlabstanford/metabias"
+    },
+    {
+        "package": "multibiasmeta",
+        "url": "https://github.com/mathurlabstanford/multibiasmeta"
+    },
+    {
+        "package": "phacking",
+        "url": "https://github.com/mathurlabstanford/phacking"
+    },
+    {
+        "package": "PublicationBias",
+        "url": "https://github.com/mathurlabstanford/PublicationBias"
+    },
+    {
+        "package": "wordbankr",
+        "url": "https://github.com/langcog/wordbankr"
+    },
+    {
+        "package": "childesr",
+        "url": "https://github.com/langcog/childesr"
+    },
+    {
+        "package": "peekbankr",
+        "url": "https://github.com/langcog/peekbankr"
+    },
+    {
+        "package": "jglmm",
+        "url": "https://github.com/mikabr/jglmm"
+    },
+    {
+        "package": "ggpirate",
+        "url": "https://github.com/mikabr/ggpirate"
+    },
+    {
+        "package": "rwebppl",
+        "url": "https://github.com/mhtess/rwebppl"
+    },
+    {
+        "package": "truncnormbayes",
+        "url": "https://github.com/leonkt/truncnormbayes"
+    }
+]
